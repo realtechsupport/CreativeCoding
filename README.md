@@ -5,9 +5,11 @@ This course introduces students to creative practices that come into play when w
 
 
 <i>Coding environments</i>
-<br>Processing, Python, Julia and Jupyter notebooks
+<br>
+Processing, Python, Julia and Jupyter notebooks
 
 <i>Syllabus</i>
+<br>
 tba
 
 <i>Related Courses</i>
