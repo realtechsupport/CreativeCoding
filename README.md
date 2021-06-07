@@ -3,7 +3,7 @@
 
 ART384 
 <br>
-TuTh 9:35AM - noon
+TuTh 9:35AM - 12:00PM
 <br>
 Baldy Hall 105
 <br>
