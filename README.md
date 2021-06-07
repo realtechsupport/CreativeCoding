@@ -1,9 +1,12 @@
-#Computational Media I: Art Design & Creative Coding
+# Computational Media I: Art Design & Creative Coding
 
 
 ART384 
+<br>
 TuTh 9:35AM - 12:05PM
+<br>
 Baldy Hall 105
+<br>
 Reg# 24636
 <br><br>
 
