@@ -6,3 +6,8 @@ This course introduces students to creative practices that come into play when w
 
 <i>Coding environments</i>
 <br>Processing, Python, Julia and Jupyter notebooks
+
+<i>Related Courses</i>
+[ActionCameraCode](https://github.com/realtechsupport/ActionCameraCode)  
+<br>
+[DataNarratives](https://github.com/realtechsupport/DataNarratives)
