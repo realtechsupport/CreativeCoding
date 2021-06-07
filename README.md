@@ -4,5 +4,4 @@ This course introduces students to creative practices that come into play when w
 
 
 Computing resources:
-
-Python, Julia and Jupyter notebook
+<br> Python, Julia and Jupyter notebook
