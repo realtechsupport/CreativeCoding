@@ -10,5 +10,4 @@ This course introduces students to creative practices that come into play when w
 <i>Related Courses</i>
 <br>
 [ActionCameraCode](https://github.com/realtechsupport/ActionCameraCode)  
-<br>
 [DataNarratives](https://github.com/realtechsupport/DataNarratives)
