@@ -1,4 +1,4 @@
-# Computational Media I: Art Design & Creative Coding
+# Computational Media I: Creative Coding
 
 
 ART384 
