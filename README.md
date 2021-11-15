@@ -11,12 +11,20 @@ Reg# 24636
 <br><br>
 
 <i>Overview </i> <br>
-This course introduces students to creative practices that come into play when we translate human ideas into machine operations. We will use computer languages to generate data flows expressed as images, texts and sounds and signals, locating the potential for artistic expression and action along multiple stages of the creation process. Students will learn to work across  multiple coding contexts, including Processing and Python on cloud compute environments, learn to love the command line interface and make computers do some very strange things
+This undergraduate course will introduce Art&Design focused students to a variety of paradigms within creative computing. Creative coding means different things to different people. While designers often focus on visual aesthetics of code artifacts, this course will seek to expand the visual intelligence of design and consider procedural aesthetics of code artifacts. What is the program doing? We will read texts on the history of computing, synthetic systems, art and design as well as computer languages in parallel to writing code.
+
+We will explore fundamental concepts in computing in three different computer languages: Javascript (P5js), Python and Julia. We will explore each of these systems for their conceptual and expressive capacity, and learn to appreciate how different computing paradigms allow for different kinds of artifact design. Students will learn to create a virtual computer on a remote server, and deploy that machine to tune into the flow of information on the web on a given day, or to craft a bot to respond to a favorite Reddit feed.
 
 
 <i>Coding environments</i>
 <br>
 Processing, Python, Julia and Jupyter notebooks
+
+
+<i>Prerequisites</i>
+<br>
+Curiosity. Exposure to and experience with at least one programming language
+
 
 <i>Syllabus</i>
 <br>
