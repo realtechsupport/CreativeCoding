@@ -28,7 +28,7 @@ Curiosity. Exposure to and experience with at least one programming language
 
 <i>Syllabus</i>
 <br>
-tba
+[Fall 2022](https://github.com/realtechsupport/CreativeCoding/blob/main/CC_Syllabus_2022.pdf)
 
 <i>Related Courses</i>
 <br>
