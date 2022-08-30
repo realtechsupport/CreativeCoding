@@ -3,9 +3,9 @@
 
 ART384 
 <br>
-TuTh 9:35AM - 12:00PM
+TuTh 9:00AM - 11:15PM
 <br>
-Baldy Hall 105
+Center for the Arts 136
 <br>
 Reg# 24636
 <br><br>
