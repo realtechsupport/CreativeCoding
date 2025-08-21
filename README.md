@@ -18,7 +18,7 @@ We will explore fundamental concepts in computing in three different computer la
 
 <i>Coding environments</i>
 <br>
-Processing, Python, Julia and Jupyter notebooks
+JavaScript, Python and Julia 
 
 
 <i>Prerequisites</i>
