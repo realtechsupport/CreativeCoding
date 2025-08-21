@@ -11,7 +11,7 @@ Center for the Arts 136
 <i>Overview </i> <br>
 This undergraduate course will introduce Art and Design students to interaction design, with a focus on conceptualizing and prototyping computationally mediated experiences. We will read texts from theorists and practitioners of interaction design and build toy systems that respond to topics and concepts introduced in the readings. Students will be asked to prepare short presentations on the assigned readings.
 <br><br>
-Interaction design is a wide field and we will use the online Encyclopedia of Human-Computer Interaction as reference (see below). From the many subfields of interaction we will focus on experience design, visualization, mobile and affective computing, context aware computing. We will also explore the use of AI assistants to support project development and coding. Students will learn the basics of Javascript while experimenting with generative AI models from ChatGPT and Anthropic and engage with collaborative design tools to support their research.
+Interaction design is a wide field and we will use the online Encyclopedia of Human-Computer Interaction as reference. From the many subfields of interaction we will focus on experience design, visualization, mobile and affective computing, context aware computing. We will also explore the use of AI assistants to support project development and coding. Students will learn the basics of Javascript while experimenting with generative AI models from ChatGPT and Anthropic and engage with collaborative design tools to support their research.
 <br><br>
 The semester project will comprise of two components: a simple game, designed for mobile phones and a prototype interactive website. Collaborations are encouraged. Details TBA.
 <br><br>
